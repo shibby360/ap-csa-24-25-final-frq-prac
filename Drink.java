@@ -49,6 +49,6 @@ public class Drink{
     // Write the method emptyDrink which prints out the message: NameOfDrink "has been drank" and then changes the attribute to be empty
     public void emptyDrink() {
       System.out.println(name + " has been drank");
-      isEmpty = false;
+      isEmpty = true;
     }
 }

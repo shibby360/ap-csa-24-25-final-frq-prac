@@ -2,12 +2,12 @@ Consider this studying for the FRQ portion of your final. Create a new codespace
 
 //This may cover Classes, Arrays, ArrayList, and Math.random
 
-Part 1: create a class called Drink with the proper attributes, getter/setters, and methods. Once this is done you can move onto part 2
+~~Part 1: create a class called Drink with the proper attributes, getter/setters, and methods. Once this is done you can move onto part 2~~
 
 
-Part 2: go to your main and create your drink objects and place them in an array and what not.
+~~Part 2: go to your main and create your drink objects and place them in an array and what not.~~
 
-Part 3: Complete the methods in the Main class that involve the arrays.
+~~Part 3: Complete the methods in the Main class that involve the arrays.~~
 
 CANNOT BE COMPLETED until PART 1 is done properly
 
